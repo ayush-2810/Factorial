@@ -1,4 +1,4 @@
-# Factorial  
+# **Factorial**  
 
 **Factorial_in_O(n)** : This file contains an **iterative way** of calculaitng the factorial of a number.  
                     Time complexity : **O(n)**  
